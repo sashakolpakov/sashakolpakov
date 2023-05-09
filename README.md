@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sashakolpakov/sashakolpakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋
+
+I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatorics, to Riemannian geometry, to data science and machine learning. In my free time, I enjoy my family time, good food, and occasionally good weather 😄.
+
+## 🔭 Current Projects
+
+- [Electric motor temperature prediction using recurrent neural networks](https://github.com/sashakolpakov/pmsm-time-series)
+- [Robust affine feature matching using Grassmannians](https://github.com/sashakolpakov/granni)
+- [E-init :: עינית :: Fast and Robust ICP initialization](https://github.com/sashakolpakov/icp-init)
+
+## 💬 Ask me about ...
+
+applications of embeddings, metrics, and Riemannian geometry in general (and other maths) to data analysis and computer vision
+
+## 👯 I’m looking to collaborate on ...
+
+machine learning for computer vision, medical imaging, and all kinds of projects with potential real life impact
+
+## 📫 How to Reach Me
+
+- Email: [click me](mailto:kolpakov.alexander@gmail.com)
+- LinkedIn: [see me](https://www.linkedin.com/in/alexander-kolpakov-7460a01a/)
+- Website: [read me](https://sashakolpakov.wordpress.com/)
