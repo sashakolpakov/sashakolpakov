@@ -19,7 +19,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 
 ## 🔭 Current Projects
 
-- [Cerebros One AutoML Platform](https://github.com/sashakolpakov/cerebros-core-algorithm-alpha)
+- [JAX-based dimension reduction algorithm for big data](https://github.com/sashakolpakov/dire-jax)
 - [Robust affine feature matching using Grassmannians](https://github.com/sashakolpakov/granni)
 - [E-init :: עינית :: Fast and Robust ICP initialization](https://github.com/sashakolpakov/icp-init)
 
