@@ -23,5 +23,3 @@ machine learning for computer vision, medical imaging, and all kinds of projects
 ## 📫 How to Reach Me
 
 - Email: [click me](mailto:kolpakov.alexander@gmail.com)
-- LinkedIn: [see me](https://www.linkedin.com/in/alexander-kolpakov-7460a01a/)
-- Website: [read me](https://sashakolpakov.wordpress.com/)
