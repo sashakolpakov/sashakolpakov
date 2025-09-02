@@ -8,9 +8,17 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 
 ## 🔭 Current Projects
 
-- [DiRe: a JAX-based dimension reduction algorithm for big data](https://github.com/sashakolpakov/dire-jax)
-- [GraphEm: a graph embedding for efficient centrality measures approximation](https://github.com/sashakolpakov/graphem)
-- [Einit :: עינית :: Fast and Robust ICP initialization](https://github.com/sashakolpakov/einit)
+- | **DiRe-JAX (R&D)** | **DiRe-Rapids (CUDA HPC)** |
+  |---|---|
+  | [JAX/NumPy prototyping](https://github.com/sashakolpakov/dire-jax) | [CUDA/RAPIDS GPU-native](https://github.com/sashakolpakov/dire-rapids) |
+
+- | **GraphEm** |
+  |--|
+  |[Graph embedding for efficient centrality measures approximation](https://github.com/sashakolpakov/graphem)|
+
+- | **Einit :: עינית ::** |
+  |--|
+  |[Fast and Robust ICP initialization](https://github.com/sashakolpakov/einit)|
 
 ## 💬 Ask me about ...
 
