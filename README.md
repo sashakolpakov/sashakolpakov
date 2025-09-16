@@ -30,7 +30,7 @@ machine learning for computer vision, medical imaging, and all kinds of projects
 
 ## 👀 Some stats ...
 
-![sashakolpakov's Stats](https://github-readme-stats.vercel.app/api?username=sashakolpakov&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![sashakolpakov's Stats](https://github-readme-stats.vercel.app/api?username=sashakolpakov&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
 # 📫 How to Reach Me
 
