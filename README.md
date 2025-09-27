@@ -8,13 +8,13 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 
 ## 🔭 Current Projects
 
-- | **DiRe-JAX (R&D)** | **DiRe-Rapids (CUDA HPC)** |
+- | **DiRe-JAX (R&D)** | **DiRe-Rapids (CUDA)** |
   |---|---|
   | [JAX/NumPy prototyping](https://github.com/sashakolpakov/dire-jax) | [CUDA/RAPIDS GPU-native](https://github.com/sashakolpakov/dire-rapids) |
 
-- | **GraphEm** |
-  |--|
-  |[Graph embedding for efficient centrality measures approximation](https://github.com/sashakolpakov/graphem)|
+- | **GraphEm-JAX (R&D)** | **GraphEm-Rapids (CUDA)** |
+  |---|---|
+  | [JAX/NumPy prototyping](https://github.com/sashakolpakov/graphem) | [CUDA/RAPIDS GPU-native](https://github.com/sashakolpakov/graphem-rapids) |
 
 - | **Einit :: עינית ::** |
   |--|
