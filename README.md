@@ -8,17 +8,9 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 
 ## 🔭 Current Projects
 
-- | **DiRe-JAX (R&D)** | **DiRe-Rapids (CUDA)** |
-  |---|---|
-  | [JAX/NumPy prototyping](https://github.com/sashakolpakov/dire-jax) | [CUDA/RAPIDS GPU-native](https://github.com/sashakolpakov/dire-rapids) |
-
-- | **GraphEm-JAX (R&D)** | **GraphEm-Rapids (CUDA)** |
-  |---|---|
-  | [JAX/NumPy prototyping](https://github.com/sashakolpakov/graphem) | [CUDA/RAPIDS GPU-native](https://github.com/sashakolpakov/graphem-rapids) |
-
-- | **Einit :: עינית ::** |
-  |--|
-  |[Fast and Robust ICP initialization](https://github.com/sashakolpakov/einit)|
+| **DiRe-Rapids** | **GraphEm-JAX** | **Einit :: עינית ::** | **Copenhagen** |
+  |---|---|---|---|
+  | [CUDA/RAPIDS GPU-native](https://github.com/sashakolpakov/dire-rapids) | [JAX/NumPy prototyping](https://github.com/sashakolpakov/graphem) | [Fast and Robust ICP initialization](https://github.com/sashakolpakov/einit)| [A fully dynamic ANN index](https://github.com/sashakolpakov/copenhagen) |
 
 ## 💬 Ask me about ...
 
