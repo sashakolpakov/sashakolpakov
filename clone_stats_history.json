@@ -1,0 +1,1639 @@
+{
+  "generated_at": "2026-05-20T22:27:34Z",
+  "owner": "sashakolpakov",
+  "repos": {
+    "24-cell-colouring": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "Ancillary files for arXiv:2009.09995",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/24-cell-colouring",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "SatorArepo": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 0
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 40
+        }
+      },
+      "description": "MoE authorship-evidence workbench",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/SatorArepo",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "UATX-Projects": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/UATX-Projects",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "ampi": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 2
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 2
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 1
+        }
+      },
+      "description": "ANN index for live, mutable vector collections",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/ampi",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "bayesilisk": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 0
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 57
+        },
+        "2026-05-17": {
+          "count": 370
+        },
+        "2026-05-18": {
+          "count": 71
+        },
+        "2026-05-19": {
+          "count": 129
+        }
+      },
+      "description": "Deterministic local layer for permission, entitlement, route, and data-boundary sitting over Playwright, with Grassmann attention, and LLM-generated scenario-proposal workflows gated by a finite-state verifier.",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/bayesilisk",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "benford-experiment": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 1
+        },
+        "2026-05-07": {
+          "count": 1
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "Benford's law emerging from Turing ensembles ",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/benford-experiment",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "burau-switch": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 1
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 2
+        }
+      },
+      "description": "",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/burau-switch",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "collatz-phase": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 1
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 1
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/collatz-phase",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "copenhagen": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 1
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 1
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "A fully dynamic approximate nearest neighbor index built on Inverted File Index",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/copenhagen",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "crystallographic-packings": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 1
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "Ancillary files for arXiv:2203.01973 ",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/crystallographic-packings",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "dire-jax": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 2
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 1
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 2
+        },
+        "2026-05-11": {
+          "count": 2
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 3
+        },
+        "2026-05-14": {
+          "count": 4
+        },
+        "2026-05-15": {
+          "count": 1
+        },
+        "2026-05-16": {
+          "count": 21
+        },
+        "2026-05-17": {
+          "count": 2
+        },
+        "2026-05-18": {
+          "count": 2
+        },
+        "2026-05-19": {
+          "count": 3
+        }
+      },
+      "description": "DImensionality REduction in JAX",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/dire-jax",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "dire-rapids": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 1
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 74
+        },
+        "2026-05-10": {
+          "count": 177
+        },
+        "2026-05-11": {
+          "count": 3
+        },
+        "2026-05-12": {
+          "count": 1
+        },
+        "2026-05-13": {
+          "count": 123
+        },
+        "2026-05-14": {
+          "count": 684
+        },
+        "2026-05-15": {
+          "count": 23708
+        },
+        "2026-05-16": {
+          "count": 999
+        },
+        "2026-05-17": {
+          "count": 536
+        },
+        "2026-05-18": {
+          "count": 4
+        },
+        "2026-05-19": {
+          "count": 105
+        }
+      },
+      "description": "DiRe accelerated by PyTorch, PyKeOps and cuVS ",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/dire-rapids",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "dodecahedron-colouring": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 2
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/dodecahedron-colouring",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "einit": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 5
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 2
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 1
+        }
+      },
+      "description": "Fast and robust initialization for Iterative Closest Point",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/einit",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "elias-renorm": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 1
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 1
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/elias-renorm",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "fast-twed": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 1
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 1
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 1
+        }
+      },
+      "description": "TWED algorithm in Numba",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/fast-twed",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "gkm": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 1
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 1
+        },
+        "2026-05-13": {
+          "count": 1
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 1
+        }
+      },
+      "description": "G\u00f6del-Kolmogorov Machine - Self-improving AI agent with TPE + free energy optimization",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/gkm",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "graphem-rapids": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 1
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 3
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 1
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "Graph embedding for influence maximization in networks",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/graphem-rapids",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "homological-stability-repro": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 0
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 266
+        },
+        "2026-05-18": {
+          "count": 3
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/homological-stability-repro",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "icp-init": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 1
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 1
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 1
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "Robust ICP initialization",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/icp-init",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "info-geometry-umap": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 1
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 2
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "Information geometry of UMAP",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/info-geometry-umap",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "linalg-lec": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 2
+        },
+        "2026-05-07": {
+          "count": 3
+        },
+        "2026-05-08": {
+          "count": 1
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 17
+        },
+        "2026-05-11": {
+          "count": 1
+        },
+        "2026-05-12": {
+          "count": 3
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 2
+        },
+        "2026-05-16": {
+          "count": 2
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 1
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/linalg-lec",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "monty-3d": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "SageMath worksheet for enumeration of Spehner pavings (3-dimensional maps). Ancillary files for arXiv:1712.01418",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/monty-3d",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "mte-pareto": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 1
+        }
+      },
+      "description": "",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/mte-pareto",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "non-euclidean-kissing-number": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "Ancillary files for arXiv:2003.05547",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/non-euclidean-kissing-number",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "plof": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 1
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 1
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "Computing faces of Coxeter polytopes (arXiv:2002.11445)",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/plof",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "pmsm-time-series": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 1
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "Using LSTM recurrent neural network to predict electric motor heat loss",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/pmsm-time-series",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "ripple_in_time": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/ripple_in_time",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "roam": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "Robust affine feature matching via quadratic assignment on Grassmannians ",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/roam",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "sashakolpakov": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 1
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 0
+        }
+      },
+      "description": "",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/sashakolpakov",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "structure-functions": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 1
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 1
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 1
+        }
+      },
+      "description": "Experiments with model structure functions and model selection",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/structure-functions",
+      "updated_at": "2026-05-20T22:27:34Z"
+    },
+    "xgb-primes": {
+      "archived": false,
+      "daily": {
+        "2026-05-06": {
+          "count": 0
+        },
+        "2026-05-07": {
+          "count": 0
+        },
+        "2026-05-08": {
+          "count": 0
+        },
+        "2026-05-09": {
+          "count": 0
+        },
+        "2026-05-10": {
+          "count": 2
+        },
+        "2026-05-11": {
+          "count": 0
+        },
+        "2026-05-12": {
+          "count": 0
+        },
+        "2026-05-13": {
+          "count": 0
+        },
+        "2026-05-14": {
+          "count": 0
+        },
+        "2026-05-15": {
+          "count": 0
+        },
+        "2026-05-16": {
+          "count": 0
+        },
+        "2026-05-17": {
+          "count": 0
+        },
+        "2026-05-18": {
+          "count": 0
+        },
+        "2026-05-19": {
+          "count": 2
+        }
+      },
+      "description": "Prime prediction using XGBoost",
+      "fork": false,
+      "html_url": "https://github.com/sashakolpakov/xgb-primes",
+      "updated_at": "2026-05-20T22:27:34Z"
+    }
+  },
+  "version": 1
+}

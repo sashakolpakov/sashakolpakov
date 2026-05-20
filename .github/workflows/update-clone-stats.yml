@@ -1,0 +1,47 @@
+name: Update Clone Leaderboard
+
+on:
+  schedule:
+    # Runs every day at midnight UTC.
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-clone-leaderboard
+  cancel-in-progress: false
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_USER: sashakolpakov
+      TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+      CLONE_STATS_LIMIT: "10"
+
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Fetch clone traffic and update README
+        run: python scripts/update_clone_stats.py
+
+      - name: Commit leaderboard changes
+        run: |
+          if [ -z "$(git status --porcelain -- README.md clone_stats_history.json)" ]; then
+            echo "No clone leaderboard changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md clone_stats_history.json
+          git commit -m "Update clone leaderboard"
+          git push

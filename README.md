@@ -8,9 +8,95 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 
 ## 🔭 Current Projects
 
-| **DiRe-Rapids** | **GraphEm-JAX** | **Einit :: עינית ::** | **Copenhagen** |
-  |---|---|---|---|
-  | [CUDA/RAPIDS GPU-native](https://github.com/sashakolpakov/dire-rapids) | [JAX/NumPy prototyping](https://github.com/sashakolpakov/graphem) | [Fast and Robust ICP initialization](https://github.com/sashakolpakov/einit)| [A fully dynamic ANN index](https://github.com/sashakolpakov/copenhagen) |
+<table>
+  <thead>
+    <tr>
+      <th align="right"><code>No.</code></th>
+      <th><code>Project</code></th>
+      <th><code>Notes</code></th>
+      <th align="right"><code>No.</code></th>
+      <th><code>Project</code></th>
+      <th><code>Notes</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="right"><code>1</code></td>
+      <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>DiRe-Rapids</code></a></td>
+      <td><sub>CUDA/RAPIDS GPU-native</sub></td>
+      <td align="right"><code>3</code></td>
+      <td><a href="https://github.com/sashakolpakov/einit"><code>Einit :: עינית ::</code></a></td>
+      <td><sub>Fast and robust ICP initialization</sub></td>
+    </tr>
+    <tr>
+      <td align="right"><code>2</code></td>
+      <td><a href="https://github.com/sashakolpakov/graphem"><code>GraphEm-JAX</code></a></td>
+      <td><sub>JAX/NumPy prototyping</sub></td>
+      <td align="right"><code>4</code></td>
+      <td><a href="https://github.com/sashakolpakov/copenhagen"><code>Copenhagen</code></a></td>
+      <td><sub>Fully dynamic ANN index</sub></td>
+    </tr>
+  </tbody>
+</table>
+
+## 📊 Repository Clone Leaderboard
+
+<!-- CLONE-STATS:START -->
+<table>
+  <thead>
+    <tr>
+      <th align="right"><code>No.</code></th>
+      <th><code>Repository</code></th>
+      <th align="right"><code>Clones</code></th>
+      <th align="right"><code>No.</code></th>
+      <th><code>Repository</code></th>
+      <th align="right"><code>Clones</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="right"><code>1</code></td>
+      <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
+      <td align="right"><code>26415</code></td>
+      <td align="right"><code>6</code></td>
+      <td><a href="https://github.com/sashakolpakov/linalg-lec"><code>linalg-lec</code></a></td>
+      <td align="right"><code>32</code></td>
+    </tr>
+    <tr>
+      <td align="right"><code>2</code></td>
+      <td><a href="https://github.com/sashakolpakov/bayesilisk"><code>bayesilisk</code></a></td>
+      <td align="right"><code>627</code></td>
+      <td align="right"><code>7</code></td>
+      <td><a href="https://github.com/sashakolpakov/einit"><code>einit</code></a></td>
+      <td align="right"><code>9</code></td>
+    </tr>
+    <tr>
+      <td align="right"><code>3</code></td>
+      <td><a href="https://github.com/sashakolpakov/homological-stability-repro"><code>homological-stability-repro</code></a></td>
+      <td align="right"><code>269</code></td>
+      <td align="right"><code>8</code></td>
+      <td><a href="https://github.com/sashakolpakov/ampi"><code>ampi</code></a></td>
+      <td align="right"><code>6</code></td>
+    </tr>
+    <tr>
+      <td align="right"><code>4</code></td>
+      <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
+      <td align="right"><code>43</code></td>
+      <td align="right"><code>9</code></td>
+      <td><a href="https://github.com/sashakolpakov/graphem-rapids"><code>graphem-rapids</code></a></td>
+      <td align="right"><code>6</code></td>
+    </tr>
+    <tr>
+      <td align="right"><code>5</code></td>
+      <td><a href="https://github.com/sashakolpakov/SatorArepo"><code>SatorArepo</code></a></td>
+      <td align="right"><code>40</code></td>
+      <td align="right"><code>10</code></td>
+      <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
+      <td align="right"><code>5</code></td>
+    </tr>
+  </tbody>
+</table>
+<!-- CLONE-STATS:END -->
 
 ## 💬 Ask me about ...
 
