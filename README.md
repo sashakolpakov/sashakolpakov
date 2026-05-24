@@ -57,23 +57,23 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>1</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
-      <td align="right"><code>26422</code></td>
+      <td align="right"><code>26423</code></td>
       <td align="right"><code>6</code></td>
-      <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
-      <td align="right"><code>60</code></td>
+      <td><a href="https://github.com/sashakolpakov/SatorArepo"><code>SatorArepo</code></a></td>
+      <td align="right"><code>74</code></td>
     </tr>
     <tr>
       <td align="right"><code>2</code></td>
       <td><a href="https://github.com/sashakolpakov/bayesilisk"><code>bayesilisk</code></a></td>
-      <td align="right"><code>652</code></td>
+      <td align="right"><code>656</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>48</code></td>
+      <td align="right"><code>51</code></td>
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
       <td><a href="https://github.com/sashakolpakov/homological-stability-repro"><code>homological-stability-repro</code></a></td>
-      <td align="right"><code>274</code></td>
+      <td align="right"><code>280</code></td>
       <td align="right"><code>8</code></td>
       <td><a href="https://github.com/sashakolpakov/linalg-lec"><code>linalg-lec</code></a></td>
       <td align="right"><code>32</code></td>
@@ -81,18 +81,18 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>4</code></td>
       <td><a href="https://github.com/sashakolpakov/sashakolpakov"><code>sashakolpakov</code></a></td>
-      <td align="right"><code>134</code></td>
+      <td align="right"><code>146</code></td>
       <td align="right"><code>9</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-neo4j"><code>dire-neo4j</code></a></td>
-      <td align="right"><code>13</code></td>
+      <td align="right"><code>16</code></td>
     </tr>
     <tr>
       <td align="right"><code>5</code></td>
-      <td><a href="https://github.com/sashakolpakov/SatorArepo"><code>SatorArepo</code></a></td>
-      <td align="right"><code>74</code></td>
+      <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
+      <td align="right"><code>80</code></td>
       <td align="right"><code>10</code></td>
       <td><a href="https://github.com/sashakolpakov/einit"><code>einit</code></a></td>
-      <td align="right"><code>9</code></td>
+      <td align="right"><code>10</code></td>
     </tr>
   </tbody>
 </table>
