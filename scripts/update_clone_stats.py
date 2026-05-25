@@ -166,7 +166,15 @@ def render_repo_cells(rank: int, repo: dict[str, Any] | None) -> list[str]:
     ]
 
 
+def format_last_updated(generated_at: str) -> str:
+    parsed = dt.datetime.fromisoformat(generated_at.replace("Z", "+00:00"))
+    if parsed.tzinfo is not None:
+        parsed = parsed.astimezone(dt.timezone.utc)
+    return f"Last updated at {parsed:%H:%M} on {parsed:%m/%d/%Y}"
+
+
 def render_readme_section(history: dict[str, Any], limit: int, generated_at: str) -> str:
+    last_updated = f"<sub>{format_last_updated(generated_at)}</sub>"
     repos = []
     for name, repo_history in history.get("repos", {}).items():
         total = tracked_clone_total(repo_history)
@@ -190,6 +198,8 @@ def render_readme_section(history: dict[str, Any], limit: int, generated_at: str
 
     if not repos:
         return (
+            last_updated
+            + "\n\n"
             "No clone data has been collected yet. The scheduled workflow will populate "
             "this section after `TRAFFIC_TOKEN` is configured and the workflow runs."
         )
@@ -220,7 +230,7 @@ def render_readme_section(history: dict[str, Any], limit: int, generated_at: str
         rows.extend(f"      {cell}" for cell in left_cells + right_cells)
         rows.append("    </tr>")
     rows.extend(["  </tbody>", "</table>"])
-    return "\n".join(rows)
+    return last_updated + "\n\n" + "\n".join(rows)
 
 
 def update_readme(path: Path, section: str) -> None:
