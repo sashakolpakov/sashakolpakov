@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 04:05 on 05/26/2026</sub>
+<sub>Last updated at 04:19 on 05/27/2026</sub>
 
 <table>
   <thead>
@@ -62,39 +62,39 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>27134</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-neo4j"><code>dire-neo4j</code></a></td>
-      <td align="right"><code>131</code></td>
+      <td align="right"><code>133</code></td>
     </tr>
     <tr>
       <td align="right"><code>2</code></td>
       <td><a href="https://github.com/sashakolpakov/bayesilisk"><code>bayesilisk</code></a></td>
-      <td align="right"><code>663</code></td>
+      <td align="right"><code>686</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/SatorArepo"><code>SatorArepo</code></a></td>
-      <td align="right"><code>76</code></td>
+      <td align="right"><code>77</code></td>
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
       <td><a href="https://github.com/sashakolpakov/homological-stability-repro"><code>homological-stability-repro</code></a></td>
-      <td align="right"><code>282</code></td>
+      <td align="right"><code>283</code></td>
       <td align="right"><code>8</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>57</code></td>
+      <td align="right"><code>59</code></td>
     </tr>
     <tr>
       <td align="right"><code>4</code></td>
       <td><a href="https://github.com/sashakolpakov/sashakolpakov"><code>sashakolpakov</code></a></td>
-      <td align="right"><code>172</code></td>
+      <td align="right"><code>249</code></td>
       <td align="right"><code>9</code></td>
-      <td><a href="https://github.com/sashakolpakov/mte-pareto"><code>mte-pareto</code></a></td>
-      <td align="right"><code>41</code></td>
+      <td><a href="https://github.com/sashakolpakov/GaussianKnots"><code>GaussianKnots</code></a></td>
+      <td align="right"><code>51</code></td>
     </tr>
     <tr>
       <td align="right"><code>5</code></td>
       <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
-      <td align="right"><code>162</code></td>
+      <td align="right"><code>182</code></td>
       <td align="right"><code>10</code></td>
-      <td><a href="https://github.com/sashakolpakov/linalg-lec"><code>linalg-lec</code></a></td>
-      <td align="right"><code>36</code></td>
+      <td><a href="https://github.com/sashakolpakov/mte-pareto"><code>mte-pareto</code></a></td>
+      <td align="right"><code>42</code></td>
     </tr>
   </tbody>
 </table>
