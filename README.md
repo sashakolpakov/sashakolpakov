@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 04:06 on 06/30/2026</sub>
+<sub>Last updated at 04:22 on 07/01/2026</sub>
 
 <table>
   <thead>
@@ -59,7 +59,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>1</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
-      <td align="right"><code>28562</code></td>
+      <td align="right"><code>28566</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-neo4j"><code>dire-neo4j</code></a></td>
       <td align="right"><code>341</code></td>
@@ -75,10 +75,10 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>3</code></td>
       <td><a href="https://github.com/sashakolpakov/sashakolpakov"><code>sashakolpakov</code></a></td>
-      <td align="right"><code>770</code></td>
+      <td align="right"><code>786</code></td>
       <td align="right"><code>8</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>164</code></td>
+      <td align="right"><code>165</code></td>
     </tr>
     <tr>
       <td align="right"><code>4</code></td>
