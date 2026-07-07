@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 04:04 on 07/06/2026</sub>
+<sub>Last updated at 03:55 on 07/07/2026</sub>
 
 <table>
   <thead>
@@ -74,16 +74,16 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
-      <td><a href="https://github.com/sashakolpakov/sashakolpakov"><code>sashakolpakov</code></a></td>
-      <td align="right"><code>827</code></td>
+      <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
+      <td align="right"><code>845</code></td>
       <td align="right"><code>8</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>179</code></td>
+      <td align="right"><code>181</code></td>
     </tr>
     <tr>
       <td align="right"><code>4</code></td>
-      <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
-      <td align="right"><code>807</code></td>
+      <td><a href="https://github.com/sashakolpakov/sashakolpakov"><code>sashakolpakov</code></a></td>
+      <td align="right"><code>836</code></td>
       <td align="right"><code>9</code></td>
       <td><a href="https://github.com/sashakolpakov/GaussianKnots"><code>GaussianKnots</code></a></td>
       <td align="right"><code>156</code></td>
@@ -94,7 +94,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>489</code></td>
       <td align="right"><code>10</code></td>
       <td><a href="https://github.com/sashakolpakov/dyadic-quant"><code>dyadic-quant</code></a></td>
-      <td align="right"><code>126</code></td>
+      <td align="right"><code>127</code></td>
     </tr>
   </tbody>
 </table>
