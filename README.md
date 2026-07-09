@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 03:21 on 07/08/2026</sub>
+<sub>Last updated at 03:59 on 07/09/2026</sub>
 
 <table>
   <thead>
@@ -62,7 +62,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>28576</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/homological-stability-repro"><code>homological-stability-repro</code></a></td>
-      <td align="right"><code>398</code></td>
+      <td align="right"><code>399</code></td>
     </tr>
     <tr>
       <td align="right"><code>2</code></td>
@@ -75,7 +75,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>3</code></td>
       <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
-      <td align="right"><code>866</code></td>
+      <td align="right"><code>891</code></td>
       <td align="right"><code>8</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
       <td align="right"><code>182</code></td>
@@ -83,7 +83,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>4</code></td>
       <td><a href="https://github.com/sashakolpakov/sashakolpakov"><code>sashakolpakov</code></a></td>
-      <td align="right"><code>850</code></td>
+      <td align="right"><code>868</code></td>
       <td align="right"><code>9</code></td>
       <td><a href="https://github.com/sashakolpakov/GaussianKnots"><code>GaussianKnots</code></a></td>
       <td align="right"><code>156</code></td>
@@ -94,7 +94,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>489</code></td>
       <td align="right"><code>10</code></td>
       <td><a href="https://github.com/sashakolpakov/dyadic-quant"><code>dyadic-quant</code></a></td>
-      <td align="right"><code>132</code></td>
+      <td align="right"><code>133</code></td>
     </tr>
   </tbody>
 </table>
