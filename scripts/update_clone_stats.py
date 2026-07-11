@@ -22,6 +22,12 @@ def truthy(value: str | None) -> bool:
     return value is not None and value.lower() in {"1", "true", "yes", "on"}
 
 
+def parse_repo_names(value: str | None) -> set[str]:
+    if not value:
+        return set()
+    return {name.strip().lower() for name in value.split(",") if name.strip()}
+
+
 def api_get_json(url: str, token: str) -> Any:
     headers = {
         "Accept": "application/vnd.github+json",
@@ -173,10 +179,18 @@ def format_last_updated(generated_at: str) -> str:
     return f"Last updated at {parsed:%H:%M} on {parsed:%m/%d/%Y}"
 
 
-def render_readme_section(history: dict[str, Any], limit: int, generated_at: str) -> str:
+def render_readme_section(
+    history: dict[str, Any],
+    limit: int,
+    generated_at: str,
+    excluded_repos: set[str] | None = None,
+) -> str:
     last_updated = f"<sub>{format_last_updated(generated_at)}</sub>"
+    excluded_repos = excluded_repos or set()
     repos = []
     for name, repo_history in history.get("repos", {}).items():
+        if name.lower() in excluded_repos:
+            continue
         total = tracked_clone_total(repo_history)
         if total == 0:
             continue
@@ -279,6 +293,14 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         default=truthy(os.environ.get("INCLUDE_FORKS")),
     )
+    parser.add_argument(
+        "--exclude-repos",
+        default=os.environ.get("CLONE_STATS_EXCLUDE_REPOS", ""),
+        help=(
+            "Comma-separated repository names to exclude in addition to the "
+            "profile repository named after the owner."
+        ),
+    )
     return parser.parse_args()
 
 
@@ -297,10 +319,15 @@ def main() -> int:
     generated_at = now.isoformat().replace("+00:00", "Z")
 
     history = load_history(args.history, args.owner)
+    excluded_repos = {args.owner.lower(), *parse_repo_names(args.exclude_repos)}
+    for repo_name in list(history["repos"]):
+        if repo_name.lower() in excluded_repos:
+            del history["repos"][repo_name]
+
     repositories = [
         repo
         for repo in list_public_repositories(args.owner, token)
-        if is_public_repository(repo)
+        if is_public_repository(repo) and repo["name"].lower() not in excluded_repos
     ]
     if not args.include_forks:
         repositories = [repo for repo in repositories if not repo.get("fork")]
@@ -310,7 +337,7 @@ def main() -> int:
         update_repo_history(history, repo, traffic, generated_at)
 
     history["generated_at"] = generated_at
-    section = render_readme_section(history, args.limit, generated_at)
+    section = render_readme_section(history, args.limit, generated_at, excluded_repos)
     update_readme(args.readme, section)
     write_history(args.history, history)
 
