@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 03:24 on 07/19/2026</sub>
+<sub>Last updated at 03:38 on 07/20/2026</sub>
 
 <table>
   <thead>
@@ -59,7 +59,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>1</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
-      <td align="right"><code>28635</code></td>
+      <td align="right"><code>28694</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-neo4j"><code>dire-neo4j</code></a></td>
       <td align="right"><code>345</code></td>
@@ -67,10 +67,10 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>2</code></td>
       <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
-      <td align="right"><code>1801</code></td>
+      <td align="right"><code>1804</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>207</code></td>
+      <td align="right"><code>210</code></td>
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
@@ -78,7 +78,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>1242</code></td>
       <td align="right"><code>8</code></td>
       <td><a href="https://github.com/sashakolpakov/GaussianKnots"><code>GaussianKnots</code></a></td>
-      <td align="right"><code>164</code></td>
+      <td align="right"><code>165</code></td>
     </tr>
     <tr>
       <td align="right"><code>4</code></td>
@@ -91,10 +91,10 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>5</code></td>
       <td><a href="https://github.com/sashakolpakov/homological-stability-repro"><code>homological-stability-repro</code></a></td>
-      <td align="right"><code>400</code></td>
+      <td align="right"><code>402</code></td>
       <td align="right"><code>10</code></td>
       <td><a href="https://github.com/sashakolpakov/ampi"><code>ampi</code></a></td>
-      <td align="right"><code>132</code></td>
+      <td align="right"><code>134</code></td>
     </tr>
   </tbody>
 </table>
