@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 03:23 on 07/23/2026</sub>
+<sub>Last updated at 03:17 on 07/24/2026</sub>
 
 <table>
   <thead>
@@ -70,7 +70,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>1804</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>213</code></td>
+      <td align="right"><code>214</code></td>
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
