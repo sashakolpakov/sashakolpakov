@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 03:13 on 07/29/2026</sub>
+<sub>Last updated at 02:46 on 07/30/2026</sub>
 
 <table>
   <thead>
@@ -59,7 +59,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>1</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
-      <td align="right"><code>28703</code></td>
+      <td align="right"><code>28712</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-neo4j"><code>dire-neo4j</code></a></td>
       <td align="right"><code>347</code></td>
@@ -70,7 +70,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>4549</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>230</code></td>
+      <td align="right"><code>235</code></td>
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
@@ -91,7 +91,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>5</code></td>
       <td><a href="https://github.com/sashakolpakov/homological-stability-repro"><code>homological-stability-repro</code></a></td>
-      <td align="right"><code>403</code></td>
+      <td align="right"><code>436</code></td>
       <td align="right"><code>10</code></td>
       <td><a href="https://github.com/sashakolpakov/ampi"><code>ampi</code></a></td>
       <td align="right"><code>134</code></td>
