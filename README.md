@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 02:10 on 08/10/2026</sub>
+<sub>Last updated at 02:04 on 08/11/2026</sub>
 
 <table>
   <thead>
@@ -59,7 +59,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>1</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
-      <td align="right"><code>28781</code></td>
+      <td align="right"><code>28933</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-neo4j"><code>dire-neo4j</code></a></td>
       <td align="right"><code>350</code></td>
@@ -67,10 +67,10 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>2</code></td>
       <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
-      <td align="right"><code>4884</code></td>
+      <td align="right"><code>4901</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>260</code></td>
+      <td align="right"><code>269</code></td>
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
@@ -83,18 +83,18 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>4</code></td>
       <td><a href="https://github.com/sashakolpakov/copenhagen"><code>copenhagen</code></a></td>
-      <td align="right"><code>498</code></td>
+      <td align="right"><code>499</code></td>
       <td align="right"><code>9</code></td>
-      <td><a href="https://github.com/sashakolpakov/ampi"><code>ampi</code></a></td>
-      <td align="right"><code>143</code></td>
+      <td><a href="https://github.com/sashakolpakov/graphem-rapids"><code>graphem-rapids</code></a></td>
+      <td align="right"><code>171</code></td>
     </tr>
     <tr>
       <td align="right"><code>5</code></td>
       <td><a href="https://github.com/sashakolpakov/homological-stability-repro"><code>homological-stability-repro</code></a></td>
-      <td align="right"><code>481</code></td>
+      <td align="right"><code>483</code></td>
       <td align="right"><code>10</code></td>
-      <td><a href="https://github.com/sashakolpakov/dyadic-quant"><code>dyadic-quant</code></a></td>
-      <td align="right"><code>140</code></td>
+      <td><a href="https://github.com/sashakolpakov/ampi"><code>ampi</code></a></td>
+      <td align="right"><code>143</code></td>
     </tr>
   </tbody>
 </table>
