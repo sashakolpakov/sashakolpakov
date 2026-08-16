@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 01:34 on 08/15/2026</sub>
+<sub>Last updated at 01:40 on 08/16/2026</sub>
 
 <table>
   <thead>
@@ -70,20 +70,20 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>4922</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/graphem-rapids"><code>graphem-rapids</code></a></td>
-      <td align="right"><code>299</code></td>
+      <td align="right"><code>300</code></td>
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
       <td><a href="https://github.com/sashakolpakov/bayesilisk"><code>bayesilisk</code></a></td>
-      <td align="right"><code>1274</code></td>
+      <td align="right"><code>1275</code></td>
       <td align="right"><code>8</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>278</code></td>
+      <td align="right"><code>279</code></td>
     </tr>
     <tr>
       <td align="right"><code>4</code></td>
       <td><a href="https://github.com/sashakolpakov/homological-stability-repro"><code>homological-stability-repro</code></a></td>
-      <td align="right"><code>532</code></td>
+      <td align="right"><code>625</code></td>
       <td align="right"><code>9</code></td>
       <td><a href="https://github.com/sashakolpakov/GaussianKnots"><code>GaussianKnots</code></a></td>
       <td align="right"><code>230</code></td>
