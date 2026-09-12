@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 03:59 on 09/11/2026</sub>
+<sub>Last updated at 04:01 on 09/12/2026</sub>
 
 <table>
   <thead>
@@ -62,12 +62,12 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>29254</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/graphem-rapids"><code>graphem-rapids</code></a></td>
-      <td align="right"><code>403</code></td>
+      <td align="right"><code>404</code></td>
     </tr>
     <tr>
       <td align="right"><code>2</code></td>
       <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
-      <td align="right"><code>5106</code></td>
+      <td align="right"><code>5107</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
       <td align="right"><code>376</code></td>
@@ -75,10 +75,10 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>3</code></td>
       <td><a href="https://github.com/sashakolpakov/bayesilisk"><code>bayesilisk</code></a></td>
-      <td align="right"><code>1291</code></td>
+      <td align="right"><code>1293</code></td>
       <td align="right"><code>8</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-neo4j"><code>dire-neo4j</code></a></td>
-      <td align="right"><code>365</code></td>
+      <td align="right"><code>366</code></td>
     </tr>
     <tr>
       <td align="right"><code>4</code></td>
@@ -86,15 +86,15 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>644</code></td>
       <td align="right"><code>9</code></td>
       <td><a href="https://github.com/sashakolpakov/GaussianKnots"><code>GaussianKnots</code></a></td>
-      <td align="right"><code>251</code></td>
+      <td align="right"><code>253</code></td>
     </tr>
     <tr>
       <td align="right"><code>5</code></td>
       <td><a href="https://github.com/sashakolpakov/copenhagen"><code>copenhagen</code></a></td>
       <td align="right"><code>511</code></td>
       <td align="right"><code>10</code></td>
-      <td><a href="https://github.com/sashakolpakov/dyadic-quant"><code>dyadic-quant</code></a></td>
-      <td align="right"><code>153</code></td>
+      <td><a href="https://github.com/sashakolpakov/ampi"><code>ampi</code></a></td>
+      <td align="right"><code>158</code></td>
     </tr>
   </tbody>
 </table>
