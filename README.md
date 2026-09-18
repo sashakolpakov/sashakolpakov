@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 04:21 on 09/17/2026</sub>
+<sub>Last updated at 04:05 on 09/18/2026</sub>
 
 <table>
   <thead>
@@ -59,7 +59,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>1</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
-      <td align="right"><code>29260</code></td>
+      <td align="right"><code>29261</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/graphem-rapids"><code>graphem-rapids</code></a></td>
       <td align="right"><code>409</code></td>
@@ -70,12 +70,12 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>5109</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>385</code></td>
+      <td align="right"><code>403</code></td>
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
       <td><a href="https://github.com/sashakolpakov/bayesilisk"><code>bayesilisk</code></a></td>
-      <td align="right"><code>1294</code></td>
+      <td align="right"><code>1295</code></td>
       <td align="right"><code>8</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-neo4j"><code>dire-neo4j</code></a></td>
       <td align="right"><code>370</code></td>
@@ -83,15 +83,15 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>4</code></td>
       <td><a href="https://github.com/sashakolpakov/homological-stability-repro"><code>homological-stability-repro</code></a></td>
-      <td align="right"><code>647</code></td>
+      <td align="right"><code>648</code></td>
       <td align="right"><code>9</code></td>
       <td><a href="https://github.com/sashakolpakov/GaussianKnots"><code>GaussianKnots</code></a></td>
-      <td align="right"><code>253</code></td>
+      <td align="right"><code>254</code></td>
     </tr>
     <tr>
       <td align="right"><code>5</code></td>
       <td><a href="https://github.com/sashakolpakov/copenhagen"><code>copenhagen</code></a></td>
-      <td align="right"><code>513</code></td>
+      <td align="right"><code>515</code></td>
       <td align="right"><code>10</code></td>
       <td><a href="https://github.com/sashakolpakov/ampi"><code>ampi</code></a></td>
       <td align="right"><code>160</code></td>
