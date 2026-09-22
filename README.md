@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 04:19 on 09/21/2026</sub>
+<sub>Last updated at 04:15 on 09/22/2026</sub>
 
 <table>
   <thead>
@@ -59,26 +59,26 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>1</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
-      <td align="right"><code>29274</code></td>
+      <td align="right"><code>29275</code></td>
       <td align="right"><code>6</code></td>
-      <td><a href="https://github.com/sashakolpakov/graphem-rapids"><code>graphem-rapids</code></a></td>
+      <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
       <td align="right"><code>411</code></td>
     </tr>
     <tr>
       <td align="right"><code>2</code></td>
       <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
-      <td align="right"><code>5110</code></td>
+      <td align="right"><code>5111</code></td>
       <td align="right"><code>7</code></td>
-      <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>410</code></td>
+      <td><a href="https://github.com/sashakolpakov/graphem-rapids"><code>graphem-rapids</code></a></td>
+      <td align="right"><code>411</code></td>
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
       <td><a href="https://github.com/sashakolpakov/bayesilisk"><code>bayesilisk</code></a></td>
-      <td align="right"><code>1296</code></td>
+      <td align="right"><code>1297</code></td>
       <td align="right"><code>8</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-neo4j"><code>dire-neo4j</code></a></td>
-      <td align="right"><code>370</code></td>
+      <td align="right"><code>371</code></td>
     </tr>
     <tr>
       <td align="right"><code>4</code></td>
@@ -86,7 +86,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>651</code></td>
       <td align="right"><code>9</code></td>
       <td><a href="https://github.com/sashakolpakov/GaussianKnots"><code>GaussianKnots</code></a></td>
-      <td align="right"><code>257</code></td>
+      <td align="right"><code>258</code></td>
     </tr>
     <tr>
       <td align="right"><code>5</code></td>
@@ -94,7 +94,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>516</code></td>
       <td align="right"><code>10</code></td>
       <td><a href="https://github.com/sashakolpakov/ampi"><code>ampi</code></a></td>
-      <td align="right"><code>161</code></td>
+      <td align="right"><code>162</code></td>
     </tr>
   </tbody>
 </table>
