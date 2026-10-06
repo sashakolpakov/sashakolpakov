@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T05:00:13Z",
+  "generated_at": "2026-10-06T05:47:34Z",
   "owner": "sashakolpakov",
   "repos": {
     "24-cell-colouring": {
@@ -457,12 +457,15 @@
         },
         "2026-10-03": {
           "count": 1
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Ancillary files for arXiv:2009.09995",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/24-cell-colouring",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "GaussianKnots": {
       "archived": false,
@@ -901,12 +904,18 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 1
+        },
+        "2026-10-05": {
+          "count": 0
         }
       },
       "description": "Random projected-simplex stick knots: manuscript, experiments, Sphinx docs, and Lean verification.",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/GaussianKnots",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "PseudoArithmetic": {
       "archived": false,
@@ -1132,12 +1141,15 @@
         },
         "2026-10-03": {
           "count": 5
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Exact certificates and Lean formalization for non-pseudo-arithmetic hyperbolic 4-manifolds",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/PseudoArithmetic",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "SatorArepo": {
       "archived": false,
@@ -1594,12 +1606,15 @@
         },
         "2026-10-03": {
           "count": 1
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "MoE authorship-evidence workbench",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/SatorArepo",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "StickNumbers": {
       "archived": false,
@@ -1831,12 +1846,15 @@
         },
         "2026-10-03": {
           "count": 2
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Asymptotic counting of knot types by stick number: manuscript, reproducibility code, Sphinx docs, and Lean verification.",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/StickNumbers",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "UATX-Projects": {
       "archived": false,
@@ -2287,12 +2305,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/UATX-Projects",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "ampi": {
       "archived": false,
@@ -2749,12 +2770,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "ANN index for live, mutable vector collections",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/ampi",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "arithmetic-trace-rigidity": {
       "archived": false,
@@ -2830,12 +2854,15 @@
         },
         "2026-10-03": {
           "count": 1
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Research manuscripts and formal certificates on trace sparsity, arithmeticity, and trace rigidity",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/arithmetic-trace-rigidity",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "bayesilisk": {
       "archived": false,
@@ -3292,12 +3319,15 @@
         },
         "2026-10-03": {
           "count": 2
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Deterministic local layer for permission, entitlement, route, and data-boundary sitting over Playwright, with Grassmann attention, and LLM-generated scenario-proposal workflows gated by a finite-state verifier.",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/bayesilisk",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "benford-experiment": {
       "archived": false,
@@ -3754,12 +3784,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Benford's law emerging from Turing ensembles ",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/benford-experiment",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "burau-switch": {
       "archived": false,
@@ -4216,12 +4249,15 @@
         },
         "2026-10-03": {
           "count": 2
+        },
+        "2026-10-04": {
+          "count": 1
         }
       },
       "description": "",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/burau-switch",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "collatz-phase": {
       "archived": false,
@@ -4678,12 +4714,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 2
         }
       },
       "description": "",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/collatz-phase",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "copenhagen": {
       "archived": false,
@@ -5140,12 +5179,18 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 1
+        },
+        "2026-10-05": {
+          "count": 2
         }
       },
       "description": "A fully dynamic approximate nearest neighbor index built on Inverted File Index",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/copenhagen",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "crystallographic-packings": {
       "archived": false,
@@ -5602,12 +5647,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 1
         }
       },
       "description": "Ancillary files for arXiv:2203.01973 ",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/crystallographic-packings",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "dire-jax": {
       "archived": false,
@@ -6064,12 +6112,18 @@
         },
         "2026-10-03": {
           "count": 2
+        },
+        "2026-10-04": {
+          "count": 1
+        },
+        "2026-10-05": {
+          "count": 2
         }
       },
       "description": "DImensionality REduction in JAX",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/dire-jax",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "dire-neo4j": {
       "archived": false,
@@ -6520,12 +6574,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Neo4j-native DiRe graph layout and topology-preserving embedding plugin",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/dire-neo4j",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "dire-rapids": {
       "archived": false,
@@ -6982,12 +7039,18 @@
         },
         "2026-10-03": {
           "count": 2
+        },
+        "2026-10-04": {
+          "count": 1
+        },
+        "2026-10-05": {
+          "count": 2
         }
       },
       "description": "DiRe accelerated by PyTorch, PyKeOps and cuVS ",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/dire-rapids",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "dodecahedron-colouring": {
       "archived": false,
@@ -7444,12 +7507,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/dodecahedron-colouring",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "dyadic-quant": {
       "archived": false,
@@ -7789,12 +7855,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 7
         }
       },
       "description": "",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/dyadic-quant",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "einit": {
       "archived": false,
@@ -8251,12 +8320,15 @@
         },
         "2026-10-03": {
           "count": 1
+        },
+        "2026-10-04": {
+          "count": 1
         }
       },
       "description": "Fast and robust initialization for Iterative Closest Point",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/einit",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "elias-renorm": {
       "archived": false,
@@ -8710,12 +8782,18 @@
         },
         "2026-10-03": {
           "count": 1
+        },
+        "2026-10-04": {
+          "count": 0
+        },
+        "2026-10-05": {
+          "count": 0
         }
       },
       "description": "",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/elias-renorm",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "fast-twed": {
       "archived": false,
@@ -9172,12 +9250,15 @@
         },
         "2026-10-03": {
           "count": 1
+        },
+        "2026-10-04": {
+          "count": 1
         }
       },
       "description": "TWED algorithm in Numba",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/fast-twed",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "gkm": {
       "archived": false,
@@ -9634,12 +9715,15 @@
         },
         "2026-10-03": {
           "count": 29
+        },
+        "2026-10-04": {
+          "count": 2
         }
       },
       "description": "G\u00f6del-Kolmogorov Machine: Self-improving agents with free energy optimization",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/gkm",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "graphem-rapids": {
       "archived": false,
@@ -10096,12 +10180,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 3
         }
       },
       "description": "Graph embedding for influence maximization in networks",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/graphem-rapids",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "homological-stability-repro": {
       "archived": false,
@@ -10558,12 +10645,18 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
+        },
+        "2026-10-05": {
+          "count": 0
         }
       },
       "description": "Reproducibility suite for arXiv:2503.03156",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/homological-stability-repro",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "icp-init": {
       "archived": false,
@@ -11020,12 +11113,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 1
         }
       },
       "description": "Robust ICP initialization",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/icp-init",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "info-geometry-umap": {
       "archived": false,
@@ -11482,12 +11578,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Information geometry of UMAP",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/info-geometry-umap",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "linalg-lec": {
       "archived": false,
@@ -11944,12 +12043,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/linalg-lec",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "monty-3d": {
       "archived": false,
@@ -12406,12 +12508,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "SageMath worksheet for enumeration of Spehner pavings (3-dimensional maps). Ancillary files for arXiv:1712.01418",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/monty-3d",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "mte-pareto": {
       "archived": false,
@@ -12868,12 +12973,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/mte-pareto",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "non-euclidean-kissing-number": {
       "archived": false,
@@ -13330,12 +13438,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Ancillary files for arXiv:2003.05547",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/non-euclidean-kissing-number",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "plof": {
       "archived": false,
@@ -13792,12 +13903,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Computing faces of Coxeter polytopes (arXiv:2002.11445)",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/plof",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "pmsm-time-series": {
       "archived": false,
@@ -14254,12 +14368,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Using LSTM recurrent neural network to predict electric motor heat loss",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/pmsm-time-series",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "ripple_in_time": {
       "archived": false,
@@ -14716,12 +14833,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/ripple_in_time",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "roam": {
       "archived": false,
@@ -15178,12 +15298,15 @@
         },
         "2026-10-03": {
           "count": 1
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Robust affine feature matching via quadratic assignment on Grassmannians ",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/roam",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "spherical-regge-scissors": {
       "archived": false,
@@ -15244,12 +15367,15 @@
         },
         "2026-10-03": {
           "count": 1
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "A self-contained proof of the spherical Regge scissors theorem",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/spherical-regge-scissors",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "structure-functions": {
       "archived": false,
@@ -15706,12 +15832,15 @@
         },
         "2026-10-03": {
           "count": 0
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Experiments with model structure functions and model selection",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/structure-functions",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     },
     "xgb-primes": {
       "archived": false,
@@ -16168,12 +16297,15 @@
         },
         "2026-10-03": {
           "count": 1
+        },
+        "2026-10-04": {
+          "count": 0
         }
       },
       "description": "Prime prediction using XGBoost",
       "fork": false,
       "html_url": "https://github.com/sashakolpakov/xgb-primes",
-      "updated_at": "2026-10-05T05:00:13Z"
+      "updated_at": "2026-10-06T05:47:34Z"
     }
   },
   "version": 1
