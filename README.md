@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 05:47 on 10/06/2026</sub>
+<sub>Last updated at 05:19 on 10/07/2026</sub>
 
 <table>
   <thead>
@@ -67,10 +67,10 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>2</code></td>
       <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
-      <td align="right"><code>5148</code></td>
+      <td align="right"><code>5161</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/graphem-rapids"><code>graphem-rapids</code></a></td>
-      <td align="right"><code>421</code></td>
+      <td align="right"><code>422</code></td>
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
@@ -93,7 +93,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td><a href="https://github.com/sashakolpakov/copenhagen"><code>copenhagen</code></a></td>
       <td align="right"><code>522</code></td>
       <td align="right"><code>10</code></td>
-      <td><a href="https://github.com/sashakolpakov/dyadic-quant"><code>dyadic-quant</code></a></td>
+      <td><a href="https://github.com/sashakolpakov/ampi"><code>ampi</code></a></td>
       <td align="right"><code>167</code></td>
     </tr>
   </tbody>
