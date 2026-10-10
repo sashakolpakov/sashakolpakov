@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 05:32 on 10/09/2026</sub>
+<sub>Last updated at 05:16 on 10/10/2026</sub>
 
 <table>
   <thead>
@@ -59,10 +59,10 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>1</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
-      <td align="right"><code>29314</code></td>
+      <td align="right"><code>29317</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>459</code></td>
+      <td align="right"><code>465</code></td>
     </tr>
     <tr>
       <td align="right"><code>2</code></td>
@@ -91,7 +91,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>5</code></td>
       <td><a href="https://github.com/sashakolpakov/copenhagen"><code>copenhagen</code></a></td>
-      <td align="right"><code>522</code></td>
+      <td align="right"><code>524</code></td>
       <td align="right"><code>10</code></td>
       <td><a href="https://github.com/sashakolpakov/dyadic-quant"><code>dyadic-quant</code></a></td>
       <td align="right"><code>168</code></td>
