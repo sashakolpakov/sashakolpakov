@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 05:12 on 10/29/2026</sub>
+<sub>Last updated at 05:11 on 10/30/2026</sub>
 
 <table>
   <thead>
@@ -59,10 +59,10 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>1</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
-      <td align="right"><code>29806</code></td>
+      <td align="right"><code>29810</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/homological-stability-repro"><code>homological-stability-repro</code></a></td>
-      <td align="right"><code>670</code></td>
+      <td align="right"><code>671</code></td>
     </tr>
     <tr>
       <td align="right"><code>2</code></td>
@@ -75,23 +75,23 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>3</code></td>
       <td><a href="https://github.com/sashakolpakov/human_compression"><code>human_compression</code></a></td>
-      <td align="right"><code>1629</code></td>
+      <td align="right"><code>1643</code></td>
       <td align="right"><code>8</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>529</code></td>
+      <td align="right"><code>535</code></td>
     </tr>
     <tr>
       <td align="right"><code>4</code></td>
       <td><a href="https://github.com/sashakolpakov/bayesilisk"><code>bayesilisk</code></a></td>
-      <td align="right"><code>1343</code></td>
+      <td align="right"><code>1345</code></td>
       <td align="right"><code>9</code></td>
       <td><a href="https://github.com/sashakolpakov/CoxeterPolytopes"><code>CoxeterPolytopes</code></a></td>
-      <td align="right"><code>516</code></td>
+      <td align="right"><code>521</code></td>
     </tr>
     <tr>
       <td align="right"><code>5</code></td>
       <td><a href="https://github.com/sashakolpakov/math_gkm"><code>math_gkm</code></a></td>
-      <td align="right"><code>889</code></td>
+      <td align="right"><code>893</code></td>
       <td align="right"><code>10</code></td>
       <td><a href="https://github.com/sashakolpakov/graphem-rapids"><code>graphem-rapids</code></a></td>
       <td align="right"><code>458</code></td>
