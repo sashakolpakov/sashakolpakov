@@ -30,6 +30,9 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Test clone stats updater
+        run: python -m unittest discover -s tests -v
+
       - name: Fetch clone traffic and update README
         run: python scripts/update_clone_stats.py
 

@@ -6,6 +6,7 @@ import datetime as dt
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -14,6 +15,8 @@ from typing import Any
 
 
 API_ROOT = "https://api.github.com"
+API_MAX_ATTEMPTS = 4
+RETRYABLE_HTTP_CODES = {500, 502, 503, 504}
 README_START = "<!-- CLONE-STATS:START -->"
 README_END = "<!-- CLONE-STATS:END -->"
 
@@ -37,14 +40,30 @@ def api_get_json(url: str, token: str) -> Any:
     }
     request = urllib.request.Request(url, headers=headers)
 
-    try:
-        with urllib.request.urlopen(request, timeout=30) as response:
-            return json.load(response)
-    except urllib.error.HTTPError as exc:
-        body = exc.read().decode("utf-8", errors="replace")
-        raise RuntimeError(
-            f"GitHub API request failed with {exc.code} {exc.reason} for {url}: {body}"
-        ) from exc
+    for attempt in range(1, API_MAX_ATTEMPTS + 1):
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                return json.load(response)
+        except urllib.error.HTTPError as exc:
+            with exc:
+                body = exc.read().decode("utf-8", errors="replace")
+            message = (
+                f"GitHub API request failed with {exc.code} {exc.reason} for {url}: {body}"
+            )
+            if exc.code not in RETRYABLE_HTTP_CODES or attempt == API_MAX_ATTEMPTS:
+                raise RuntimeError(message) from exc
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as exc:
+            message = f"GitHub API request failed for {url}: {exc}"
+            if attempt == API_MAX_ATTEMPTS:
+                raise RuntimeError(message) from exc
+
+        delay = 2**attempt
+        print(
+            f"{message}\nRetrying in {delay} seconds "
+            f"(attempt {attempt + 1}/{API_MAX_ATTEMPTS}).",
+            file=sys.stderr,
+        )
+        time.sleep(delay)
 
 
 def api_get_pages(url: str, token: str) -> list[dict[str, Any]]:
