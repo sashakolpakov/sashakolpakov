@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 05:27 on 11/08/2026</sub>
+<sub>Last updated at 05:38 on 11/09/2026</sub>
 
 <table>
   <thead>
@@ -59,23 +59,23 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>1</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
-      <td align="right"><code>29845</code></td>
+      <td align="right"><code>29847</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/math_gkm"><code>math_gkm</code></a></td>
-      <td align="right"><code>960</code></td>
+      <td align="right"><code>964</code></td>
     </tr>
     <tr>
       <td align="right"><code>2</code></td>
       <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
-      <td align="right"><code>5216</code></td>
+      <td align="right"><code>5218</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/CoxeterPolytopes"><code>CoxeterPolytopes</code></a></td>
-      <td align="right"><code>822</code></td>
+      <td align="right"><code>827</code></td>
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
       <td><a href="https://github.com/sashakolpakov/human_compression"><code>human_compression</code></a></td>
-      <td align="right"><code>2254</code></td>
+      <td align="right"><code>2256</code></td>
       <td align="right"><code>8</code></td>
       <td><a href="https://github.com/sashakolpakov/homological-stability-repro"><code>homological-stability-repro</code></a></td>
       <td align="right"><code>676</code></td>
@@ -83,18 +83,18 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>4</code></td>
       <td><a href="https://github.com/sashakolpakov/bayesilisk"><code>bayesilisk</code></a></td>
-      <td align="right"><code>1375</code></td>
+      <td align="right"><code>1376</code></td>
       <td align="right"><code>9</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>567</code></td>
+      <td align="right"><code>637</code></td>
     </tr>
     <tr>
       <td align="right"><code>5</code></td>
       <td><a href="https://github.com/sashakolpakov/murakamis_dream"><code>murakamis_dream</code></a></td>
-      <td align="right"><code>1183</code></td>
+      <td align="right"><code>1184</code></td>
       <td align="right"><code>10</code></td>
       <td><a href="https://github.com/sashakolpakov/copenhagen"><code>copenhagen</code></a></td>
-      <td align="right"><code>561</code></td>
+      <td align="right"><code>564</code></td>
     </tr>
   </tbody>
 </table>
