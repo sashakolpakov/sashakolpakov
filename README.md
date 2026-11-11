@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 06:47 on 11/10/2026</sub>
+<sub>Last updated at 05:35 on 11/11/2026</sub>
 
 <table>
   <thead>
@@ -59,15 +59,15 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>1</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
-      <td align="right"><code>29853</code></td>
+      <td align="right"><code>29854</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/math_gkm"><code>math_gkm</code></a></td>
-      <td align="right"><code>964</code></td>
+      <td align="right"><code>965</code></td>
     </tr>
     <tr>
       <td align="right"><code>2</code></td>
       <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
-      <td align="right"><code>5220</code></td>
+      <td align="right"><code>5222</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/CoxeterPolytopes"><code>CoxeterPolytopes</code></a></td>
       <td align="right"><code>827</code></td>
@@ -83,10 +83,10 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>4</code></td>
       <td><a href="https://github.com/sashakolpakov/bayesilisk"><code>bayesilisk</code></a></td>
-      <td align="right"><code>1382</code></td>
+      <td align="right"><code>1383</code></td>
       <td align="right"><code>9</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>641</code></td>
+      <td align="right"><code>643</code></td>
     </tr>
     <tr>
       <td align="right"><code>5</code></td>
