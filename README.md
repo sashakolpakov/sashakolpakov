@@ -42,7 +42,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
 ## 📊 Repository Clone Leaderboard
 
 <!-- CLONE-STATS:START -->
-<sub>Last updated at 06:49 on 11/18/2026</sub>
+<sub>Last updated at 06:50 on 11/19/2026</sub>
 
 <table>
   <thead>
@@ -59,7 +59,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>1</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-rapids"><code>dire-rapids</code></a></td>
-      <td align="right"><code>29889</code></td>
+      <td align="right"><code>29895</code></td>
       <td align="right"><code>6</code></td>
       <td><a href="https://github.com/sashakolpakov/math_gkm"><code>math_gkm</code></a></td>
       <td align="right"><code>1003</code></td>
@@ -67,10 +67,10 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>2</code></td>
       <td><a href="https://github.com/sashakolpakov/gkm"><code>gkm</code></a></td>
-      <td align="right"><code>5233</code></td>
+      <td align="right"><code>5234</code></td>
       <td align="right"><code>7</code></td>
       <td><a href="https://github.com/sashakolpakov/CoxeterPolytopes"><code>CoxeterPolytopes</code></a></td>
-      <td align="right"><code>846</code></td>
+      <td align="right"><code>848</code></td>
     </tr>
     <tr>
       <td align="right"><code>3</code></td>
@@ -83,10 +83,10 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
     <tr>
       <td align="right"><code>4</code></td>
       <td><a href="https://github.com/sashakolpakov/bayesilisk"><code>bayesilisk</code></a></td>
-      <td align="right"><code>1404</code></td>
+      <td align="right"><code>1441</code></td>
       <td align="right"><code>9</code></td>
       <td><a href="https://github.com/sashakolpakov/dire-jax"><code>dire-jax</code></a></td>
-      <td align="right"><code>588</code></td>
+      <td align="right"><code>596</code></td>
     </tr>
     <tr>
       <td align="right"><code>5</code></td>
@@ -94,7 +94,7 @@ I'm Sasha Kolpakov. I have a background in mathematics, ranging from combinatori
       <td align="right"><code>1203</code></td>
       <td align="right"><code>10</code></td>
       <td><a href="https://github.com/sashakolpakov/graphem-rapids"><code>graphem-rapids</code></a></td>
-      <td align="right"><code>585</code></td>
+      <td align="right"><code>586</code></td>
     </tr>
   </tbody>
 </table>
